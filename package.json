@@ -18,12 +18,12 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jquery": "^3.6.0",
+    "mongoose": "^6.3.5",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
   },
   "description": "demo app for COMP229 week 3",
-  "main": "index.js",
-  "devDependencies": {},
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YunaJung97/comp229_week3.git"
