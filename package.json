@@ -1,5 +1,5 @@
 {
-  "name": "comp229-week3-part2",
+  "name": "comp229-week4",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -22,16 +22,16 @@
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
   },
-  "description": "demo app for COMP229 week 3",
+  "description": "demo app for COMP229 week 4",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YunaJung97/comp229_week3.git"
+    "url": "git+https://github.com/YunaJung97/comp229_week4.git"
   },
   "author": "Yuna Jung",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YunaJung97/comp229_week3/issues"
+    "url": "https://github.com/YunaJung97/comp229_week4/issues"
   },
-  "homepage": "https://github.com/YunaJung97/comp229_week3#readme"
+  "homepage": "https://github.com/YunaJung97/comp229_week4#readme"
 }
